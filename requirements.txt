@@ -1,0 +1,7 @@
+django
+psycopg2
+geopy
+bs4
+elasticsearch
+geohasher
+shapely
